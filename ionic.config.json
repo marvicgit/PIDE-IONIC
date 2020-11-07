@@ -1,0 +1,7 @@
+{
+  "name": "PIDE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
